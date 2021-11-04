@@ -2,15 +2,15 @@
 NA Viewer Created by Clover#1315
 
 
-NA Viewer Features
-~Open Naruto-Arena from the application
-~Open N-A Helper from the application
-~Built-In Calculator
-~Random Team Generator
-~Random V.S Team Generator
-~Chakra Counter
-~Character Skill Viewer (Similar to NA-Helper)
-~Stay On-Top Of Other Windows 
+NA Viewer Features <br />
+~Open Naruto-Arena from the application <br />
+~Open N-A Helper from the application <br />
+~Built-In Calculator <br />
+~Random Team Generator <br />
+~Random V.S Team Generator <br />
+~Chakra Counter <br />
+~Character Skill Viewer (Similar to NA-Helper) <br />
+~Stay On-Top Of Other Windows  <br />
 
 
 
