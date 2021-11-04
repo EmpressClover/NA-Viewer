@@ -1,5 +1,5 @@
 # NAViewer
-NA Viewer Created by Clover#1315
+NA Viewer Created by Clover#1315 on the Electron Framework
 
 
 ![alt text](https://cdn.discordapp.com/attachments/901207350596235335/901210436421165126/unknown.png)
