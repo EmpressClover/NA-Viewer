@@ -2,6 +2,8 @@
 NA Viewer Created by Clover#1315
 
 
+![alt text](https://cdn.discordapp.com/attachments/901207350596235335/901210436421165126/unknown.png)
+
 NA Viewer Features <br />
 ~Open Naruto-Arena from the application <br />
 ~Open N-A Helper from the application <br />
